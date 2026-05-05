@@ -1,0 +1,22 @@
+artifact_path: /workspaces/driver-churn-prediction/mlruns/662880662551730110/models/m-45b42f1ff652448caf7814bff00d80ad/artifacts
+flavors:
+  python_function:
+    data: model.ubj
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.12.1
+  xgboost:
+    code: null
+    data: model.ubj
+    model_class: xgboost.sklearn.XGBClassifier
+    model_format: ubj
+    xgb_version: 3.2.0
+mlflow_version: 3.11.1
+model_id: m-45b42f1ff652448caf7814bff00d80ad
+model_size_bytes: 772199
+model_uuid: m-45b42f1ff652448caf7814bff00d80ad
+prompts: null
+run_id: 90b218f9bc0344ad93510305698fe269
+utc_time_created: '2026-05-05 02:13:56.141753'

@@ -1,0 +1,14 @@
+artifact_uri: /workspaces/driver-churn-prediction/mlruns/662880662551730110/cd5fdeadd1bf407599eb23f21a47a8ff/artifacts
+end_time: 1777947228011
+entry_point_name: ''
+experiment_id: '662880662551730110'
+lifecycle_stage: active
+run_id: cd5fdeadd1bf407599eb23f21a47a8ff
+run_name: Random_Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777947215309
+status: 3
+tags: []
+user_id: codespace

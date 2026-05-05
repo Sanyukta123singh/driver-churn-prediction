@@ -1,0 +1,10 @@
+artifact_location: /workspaces/driver-churn-prediction/mlruns/662880662551730110/models/m-38a525afa5b2458cb133529650bd9f26/artifacts
+creation_timestamp: 1777947209958
+experiment_id: '662880662551730110'
+last_updated_timestamp: 1777947215304
+model_id: m-38a525afa5b2458cb133529650bd9f26
+model_type: null
+name: model
+source_run_id: b8e7327ab82046ae8829e92626c46ee7
+status: 2
+status_message: null

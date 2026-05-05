@@ -1,0 +1,14 @@
+artifact_uri: /workspaces/driver-churn-prediction/mlruns/662880662551730110/16b969da410f4635a6ef6a27db2a9123/artifacts
+end_time: 1777947234048
+entry_point_name: ''
+experiment_id: '662880662551730110'
+lifecycle_stage: active
+run_id: 16b969da410f4635a6ef6a27db2a9123
+run_name: XGBoost_Baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777947228013
+status: 3
+tags: []
+user_id: codespace

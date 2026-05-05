@@ -1,0 +1,14 @@
+artifact_uri: /workspaces/driver-churn-prediction/mlruns/662880662551730110/b8e7327ab82046ae8829e92626c46ee7/artifacts
+end_time: 1777947215306
+entry_point_name: ''
+experiment_id: '662880662551730110'
+lifecycle_stage: active
+run_id: b8e7327ab82046ae8829e92626c46ee7
+run_name: Logistic_Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777947208224
+status: 3
+tags: []
+user_id: codespace

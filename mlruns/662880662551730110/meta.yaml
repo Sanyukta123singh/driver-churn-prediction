@@ -1,0 +1,8 @@
+artifact_location: /workspaces/driver-churn-prediction/mlruns/662880662551730110
+creation_time: 1777947207680
+experiment_id: '662880662551730110'
+last_update_time: 1777947207680
+lifecycle_stage: active
+name: driver_churn_prediction
+trace_location: null
+workspace: default
