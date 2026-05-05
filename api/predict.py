@@ -22,11 +22,11 @@ print(f"Version: {MODEL_VERSION}")
 
 
 def get_risk_level(probability: float) -> str:
-    if probability >= 0.70:
+    if probability >= 0.50:
         return "CRITICAL"
-    elif probability >= 0.50:
+    elif probability >= 0.25:
         return "HIGH"
-    elif probability >= 0.30:
+    elif probability >= 0.15:
         return "MEDIUM"
     else:
         return "LOW"
